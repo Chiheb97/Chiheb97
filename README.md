@@ -1,5 +1,4 @@
 ### Hi there 👋 this is Chiheb
-- 🔭 I’m currently Software engineering student at ESPRIT
-- 🌱 I’m currently learning Devops and Cloud computing
+- 🔭 I’m currently Devops Engineer at Save Your Wardrobe
 - 📫 How to reach me: chihebenchbile@gmail.com
 
